@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "bootstrap": "^4.1.1",
+    "express": "^4.16.4",
     "google-map-react": "^1.1.2",
     "jquery": "^1.12.4",
     "modernizr": "^3.6.0",

@@ -11,7 +11,6 @@ import Contact from "./contact";
 import ScrollTop from "react-scrolltop-button";
 import NotFound from "./notfound";
 class Main extends Component {
-  state = {};
   componentDidMount() {
     const script = document.createElement("script");
 
